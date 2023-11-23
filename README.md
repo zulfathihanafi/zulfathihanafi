@@ -42,7 +42,7 @@
 
 ## Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zulfathihanafu&show_icons=true&theme=react">
+  <img src="https://github-readme-stats.vercel.app/api?username=zulfathihanafi&show_icons=true&theme=react">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulfathihanafi&layout=compact&theme=react&langs_count=8">
 </p>
 
