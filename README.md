@@ -1,8 +1,10 @@
 <h1 align="center"> Hi, Zulfathi here ! 👋</h1>
 
+## About Me :
 <ul>
   <li>🎓 Software Engineering student at University of Malaya </li>
   <li>💻 Self-taught Full-stack Developer</li>
+  <li>🎓 A tutor and programmer by heart and profession</li>
 </ul>
 <hr></hr>
 
