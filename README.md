@@ -4,6 +4,16 @@
   <li>🎓 Software Engineering student at University of Malaya </li>
   <li>💻 Self-taught Full-stack Developer</li>
 </ul>
+<hr></hr>
+
+## Analytics: 
+
+![Github Stats Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zulfathihanafi&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zulfathihanafi&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zulfathihanafi&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zulfathihanafi&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zulfathihanafi&theme=2077&utcOffset=8)
+
 
 ## Languages:
 <p>
@@ -67,13 +77,9 @@
   <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
 </p>
 
-## Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zulfathihanafi&show_icons=true&theme=react">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulfathihanafi&layout=compact&theme=react&langs_count=8">
-</p>
 
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=zulfathihanafi)
+
+
 
 ## 🤝🏻 Get in touch with me
 <p>
