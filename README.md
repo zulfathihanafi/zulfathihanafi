@@ -2,7 +2,7 @@
 
 ## About Me :
 <ul>
-  <li>🎓 Software Engineering student at University of Malaya </li>
+  <li>🎓 Software Engineer @ Dell Technologies </li>
   <li>💻 Self-taught Full-stack Developer</li>
   <li>🎓 A tutor and programmer by heart and profession</li>
 </ul>
