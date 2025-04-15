@@ -2,6 +2,7 @@
 
 ## About Me :
 <ul>
+  <li>💻 System Analyst @ Tenaga Nasional Berhad </li>
   <li>🎓 Software Engineer @ Dell Technologies </li>
   <li>💻 Self-taught Full-stack Developer</li>
   <li>🎓 A tutor and programmer by heart and profession</li>
